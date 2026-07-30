@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "blostemSDK",
-            url: "https://github.com/adityaprasad-sys/blostemSDK-SPM/releases/download/1.0.13/blostemSDK.xcframework.zip",
-            checksum: "9a1f8bba10f86e9db36462b195e69e0dea2ab13cc9b8c81b665c6783b7c88b69"
+            url: "https://github.com/adityaprasad-sys/blostemSDK-SPM/releases/download/1.0.14/blostemSDK.xcframework.zip",
+            checksum: "a8697ecc3aa01b22b84fb1e185f21445a5bcd8e40c06c98884055039b48f8f36"
         )
     ]
 )
