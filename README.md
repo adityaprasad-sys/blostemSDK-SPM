@@ -10,15 +10,15 @@ Add this package URL in Xcode:
 https://github.com/adityaprasad-sys/blostemSDK-SPM.git
 ```
 
-Select version `1.0.14` or later.
+Select version `1.0.15` or later.
 
 ## Current Release
 
-- Version: `1.0.14`
+- Version: `1.0.15`
 - Minimum iOS: `13.0`
 - Device architectures: `arm64`
 - Simulator architectures: `arm64`, `x86_64`
-- Checksum: `a8697ecc3aa01b22b84fb1e185f21445a5bcd8e40c06c98884055039b48f8f36`
+- Checksum: `ce278295e4cefb4c1034e288b37eb2851e0547fbf355ffe08c2d313a38d2ee5d`
 
 ## Release Steps
 
